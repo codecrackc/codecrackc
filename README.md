@@ -36,7 +36,7 @@ const yo = {
 </p>
 
 <p align="center">
-  <img src="banner-readme.svg" />
+  <img src="banner-readme.svg" width="100%" />
 </p>
 
 <h1 align="center">Code For Cast</h1>
