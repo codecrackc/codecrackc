@@ -20,7 +20,7 @@
 
 ```javascript
 const yo = {
-  nombre: "Tu Nombre",
+  nombre: "Daniel",
   rol: "Desarrollador WEB, DESARROLLADOR SQL",
   ubicacion: "🌍 REPUBLICA DOMINICANA",
   pasiones: ["✨ Código limpio", "🧠 Arquitectura", "☕ Café", "📚 Enseñar"],
