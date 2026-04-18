@@ -32,7 +32,7 @@ const yo = {
 <p align="center">
 
   <!-- PREVIEW DE LA APP -->
-  <img src="fto 3.png" 
+  <img src="fto 3.PNG" 
        alt="ZipCore Preview" 
        width="500" 
        style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.4);" />
