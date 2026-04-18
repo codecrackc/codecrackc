@@ -32,7 +32,7 @@ const yo = {
 <p align="center">
 
   <!-- PREVIEW DE LA APP -->
-  <img src="https://raw.githubusercontent.com/codecrackc/ZIPCORE/main/preview.png" 
+  <img src="fto 3.png" 
        alt="ZipCore Preview" 
        width="500" 
        style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.4);" />
