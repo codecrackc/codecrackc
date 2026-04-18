@@ -1,8 +1,9 @@
 <div align="center">
   
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b460f8-7a1b-4c6f-8f5d-8e2e6e8f9a3b.png" width="100%" />
+
 
 # ✨ <span style="background: linear-gradient(135deg, #00F2FE, #4FACFE); -webkit-background-clip: text; background-clip: text; color: transparent;">[DANIEL]</span> ✨
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b460f8-7a1b-4c6f-8f5d-8e2e6e8f9a3b.png" width="100%" />
 
 ### *💻 Código que transforma | 🚀 Innovación sin límites*
 
