@@ -2,7 +2,7 @@
   
 
 
-# ✨ <span style="background: linear-gradient(135deg, #00F2FE, #4FACFE); -webkit-background-clip: text; background-clip: text; color: transparent;">[DANIEL]</span> ✨
+# ✨ <span style="background: linear-gradient(135deg, #00F2FE, #4FACFE); -webkit-background-clip: text; background-clip: text; color: transparent;">{_Daniel}</span> ✨
 <img src="BANNER.jpg" width="90%" />
 
 ### *💻 Código que transforma | 🚀 Innovación sin límites*
