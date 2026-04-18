@@ -1,0 +1,49 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Fondo -->
+  <rect width="900" height="260" fill="#0f172a"/>
+
+  <!-- Panel -->
+  <rect x="30" y="30" width="840" height="200" rx="6" fill="#1e293b" stroke="#334155" stroke-width="2"/>
+
+  <!-- Barra superior -->
+  <rect x="30" y="30" width="840" height="28" fill="#c0c0c0"/>
+
+  <!-- Título ventana -->
+  <text x="45" y="48" font-family="Verdana" font-size="13" fill="black">
+    Code For Cast v1.0
+  </text>
+
+  <!-- Botones -->
+  <rect x="780" y="36" width="12" height="12" fill="#27c93f"/>
+  <rect x="800" y="36" width="12" height="12" fill="#ffbd2e"/>
+  <rect x="820" y="36" width="12" height="12" fill="#ff5f56"/>
+
+  <!-- Texto principal -->
+  <text x="70" y="120" font-family="Verdana" font-size="34" fill="#ffffff">
+    Code For Cast
+  </text>
+
+  <text x="70" y="150" font-family="Verdana" font-size="14" fill="#cbd5e1">
+    Build • Compile • Package
+  </text>
+
+  <!-- Caja (icono software) -->
+  <rect x="600" y="100" width="80" height="60" fill="#334155"/>
+  <polygon points="600,100 640,70 720,70 680,100" fill="#475569"/>
+  <rect x="610" y="110" width="60" height="40" fill="#020617"/>
+
+  <!-- Datos -->
+  <rect x="620" y="120" width="40" height="4" fill="#22c55e"/>
+  <rect x="620" y="130" width="30" height="4" fill="#22c55e"/>
+  <rect x="620" y="140" width="20" height="4" fill="#22c55e"/>
+
+  <!-- Barra inferior -->
+  <rect x="30" y="200" width="840" height="30" fill="#020617"/>
+
+  <!-- Consola -->
+  <text x="50" y="220" font-family="Courier New" font-size="13" fill="#22c55e">
+    > initializing compiler...
+  </text>
+
+</svg>
