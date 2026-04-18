@@ -33,7 +33,7 @@ const yo = {
   <img src="fto 3.PNG" 
        alt="ZipCore Preview" 
        width="550" 
-       style="border-radius: 20px; box-shadow: 0px 15px 35px rgba(0,0,0,0.5);" />
+       style="border-radius: 16px; box-shadow: 0px 10px 25px rgba(0,0,0,0.3);" />
 </p>
 
 <br>
@@ -45,24 +45,6 @@ const yo = {
   </a>
 </p>
 
-<br>
-
-## 🚀 Características principales
-
-- ⚡ **Compresión ultrarrápida** – Reduce tus archivos en segundos.
-- 🔒 **Protección con contraseña** – Seguridad AES-256 integrada.
-- 📁 **Soporte múltiple** – ZIP, RAR, 7Z y más formatos.
-- 🎨 **Interfaz moderna** – Diseño limpio y fácil de usar.
-
-<br>
-
-## 📦 Instalación
-
-1. Haz clic en el botón de **Descarga**.
-2. Ejecuta `ZipCore_Gratis_Setup_v1.0.0.exe`.
-3. Sigue los pasos del asistente de instalación.
-
-<br>
 
 ## 🖥️ Requisitos del sistema
 
@@ -73,16 +55,7 @@ const yo = {
 
 <br>
 
-## 📄 Licencia
 
-Este proyecto está bajo la licencia **MIT**.  
-Consulta el archivo `LICENSE` para más detalles.
-
-<br>
-
-<p align="center">
-  Hecho con 💙 por <a href="https://github.com/codecrackc">@codecrackc</a>
-</p>
 <p align="center">
   <img src="banner-readme.svg" width="100%" />
 </p>
