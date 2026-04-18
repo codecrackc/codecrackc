@@ -2,7 +2,7 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b460f8-7a1b-4c6f-8f5d-8e2e6e8f9a3b.png" width="100%" />
 
-# ✨ <span style="background: linear-gradient(135deg, #00F2FE, #4FACFE); -webkit-background-clip: text; background-clip: text; color: transparent;">[Tu Nombre]</span> ✨
+# ✨ <span style="background: linear-gradient(135deg, #00F2FE, #4FACFE); -webkit-background-clip: text; background-clip: text; color: transparent;">[DANIEL]</span> ✨
 
 ### *💻 Código que transforma | 🚀 Innovación sin límites*
 
@@ -17,9 +17,9 @@
 ```javascript
 const yo = {
   nombre: "Tu Nombre",
-  rol: "Desarrollador Full Stack",
-  ubicacion: "🌍 Ciudad, País",
+  rol: "Desarrollador WEB, DESARROLLADOR SQL",
+  ubicacion: "🌍 REPUBLICA DOMINICANA",
   pasiones: ["✨ Código limpio", "🧠 Arquitectura", "☕ Café", "📚 Enseñar"],
-  aprendizajeActual: "⚡ [Tecnología que estudias]",
+  aprendizajeActual: "⚡ [PYTHON, HTML, CSS3, C#,  VISUALBASIC , SQL, ]",
   disponiblePara: "🤝 Colaboraciones open source | 💼 Proyectos freelance"
 };
