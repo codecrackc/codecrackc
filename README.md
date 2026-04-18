@@ -3,7 +3,7 @@
 
 
 # ✨ <span style="background: linear-gradient(135deg, #00F2FE, #4FACFE); -webkit-background-clip: text; background-clip: text; color: transparent;">{ Daniel }</span> ✨
-<img src="BANNER.jpg" width="90%" />
+<img src="BANNER.jpg" width="100%" />
 
 ### *💻 Código que transforma | 🚀 Innovación sin límites*
 
