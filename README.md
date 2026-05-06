@@ -28,7 +28,7 @@ const yo = {
   disponiblePara: "🤝 Colaboraciones open source | 💼 Proyectos freelance"
 };
 
----
+```
 <p align="center">
 
 # 📦 INSTALAR ZIPCORE
