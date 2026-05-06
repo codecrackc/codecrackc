@@ -42,7 +42,6 @@ const yo = {
 
 </p>
 
-```
 <p align="center">
 
 # 📦 INSTALAR Tester lite
