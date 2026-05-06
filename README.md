@@ -42,7 +42,19 @@ const yo = {
 
 </p>
 
+```
+<p align="center">
 
+# 📦 INSTALAR Tester lite
+
+<br>
+
+<a href="https://github.com/codecrackc/TESter-LIte/blob/main/admin.py" target="_blank">
+  <img src="https://img.shields.io/badge/⬇️_DESCARGAR_AHORA-00F2FE?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117" 
+       alt="Descargar tester web" />
+</a>
+
+</p>
 
 
 <p align="center">
